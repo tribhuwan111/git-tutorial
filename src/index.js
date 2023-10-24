@@ -1,1 +1,1 @@
-console('index');
+console('index1');
